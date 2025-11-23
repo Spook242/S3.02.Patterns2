@@ -1,4 +1,4 @@
-package nivel1;
+package nivel1Builder;
 
 public interface PizzaBuilder {
 

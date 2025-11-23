@@ -1,4 +1,4 @@
-package nivel1;
+package nivel1Builder;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
